@@ -1,4 +1,4 @@
-package com.iu.array;
+package com.gm.array;
 
 public class Array_3 {
 
